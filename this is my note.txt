@@ -1,0 +1,2 @@
+My workspace is in the folder:
+C:\DEV\STS_Work_Space_Spring Boot and OAuth2
